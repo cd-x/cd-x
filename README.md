@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://open.spotify.com/playlist/1WaQlHLL6NivocvHLxsp1J">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_spotify-256.png" alt="Spotify" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 <!--
 **cd-x/cd-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
